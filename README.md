@@ -1,3 +1,3 @@
 # WebDev
 
-This is a simple calculator created with HTML , CSS & JS.
+Here are some projects created using HTML,CSS & JS.
